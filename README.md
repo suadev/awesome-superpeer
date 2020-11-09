@@ -8,7 +8,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
     - [Software Career Menthorship](#software-career-menthorship)
     - [Front-end Software Development](#front-end-software-development)
     - [Back-end Software Development](#back-end-software-development)
-    - [Enterprice Architecture](#enterprise-architecture)
+    - [Enterprise Architecture](#enterprise-architecture)
     - [DevOps](#devops)
     - [Embedded Systems](#embedded-systems)
     - [Computer Vision and Image Processing](#computer-vision-and-image-processing)
@@ -25,9 +25,9 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
-* [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
+* [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
 
 ## Back-end Software Development
 
