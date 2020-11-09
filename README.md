@@ -29,6 +29,10 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
 
+## Fintech 
+
+* [Hüseyin Mert](https://superpeer.com/hmert) - Fintech, payment gateways and wallet 
+
 ## Back-end Software Development
 
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
@@ -39,6 +43,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Enterprise Architecture
 
 * [Hakan Yuksel](https://superpeer.com/yukselis) - Enterprise Architect, Enterprise Security Architect
+* [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
 
 ## DevOps
 
