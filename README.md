@@ -5,45 +5,27 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ### Contents
 
 - [Awesome Superpeer](#awesome-superpeer)
-    - [Software Career Menthorship](#software-career-menthorship)
-    - [Front-end Software Development](#front-end-software-development)
+       
     - [Back-end Software Development](#back-end-software-development)
-    - [Enterprise Architecture](#enterprise-architecture)
+    - [Computer Vision and Image Processing](#computer-vision-and-image-processing)
     - [DevOps](#devops)
     - [Embedded Systems](#embedded-systems)
-    - [Computer Vision and Image Processing](#computer-vision-and-image-processing)
-
-## Software Career Menthorship
-
-* [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
-* [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
-* [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
-* [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
-
-## Front-end Software Development
-
-* [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
-* [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
-* [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
-* [Mert Cukuren](https://superpeer.com/ui) - UI Developer
-* [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
-* [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
-
-## Fintech 
-
-* [Hüseyin Mert](https://superpeer.com/hmert) - Fintech, payment gateways and wallet 
-
+    - [Enterprise Architecture](#enterprise-architecture)
+    - [Fintech](#fintech)
+    - [Front-end Software Development](#front-end-software-development)
+    - [Software Career Menthorship](#software-career-menthorship)
+    
 ## Back-end Software Development
 
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
+* [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 
-## Enterprise Architecture
+## Computer Vision and Image Processing
 
-* [Hakan Yuksel](https://superpeer.com/yukselis) - Enterprise Architect, Enterprise Security Architect
-* [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
+* [İbrahim Delibaşoğlu](https://superpeer.com/mribrahim) - Computer Vision/Image processing Researcher
 
 ## DevOps
 
@@ -55,6 +37,27 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 * [Ömer Faruk Uçar](https://superpeer.com/omerfarukucar) - Youtuber, Embedded Systems Engineer, Maker
 
-## Computer Vision and Image Processing
+## Enterprise Architecture
 
-* [İbrahim Delibaşoğlu](https://superpeer.com/mribrahim) - Computer Vision/Image processing Researcher
+* [Hakan Yuksel](https://superpeer.com/yukselis) - Enterprise Architect, Enterprise Security Architect
+* [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
+
+## Fintech 
+
+* [Hüseyin Mert](https://superpeer.com/hmert) - Fintech, payment gateways and wallet 
+
+## Front-end Software Development
+
+* [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
+* [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
+* [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
+* [Mert Cukuren](https://superpeer.com/ui) - UI Developer
+* [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
+* [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
+
+## Software Career Menthorship
+
+* [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
+* [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
+* [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
+* [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
