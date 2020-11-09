@@ -28,6 +28,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
+
 ## Back-end Software Development
 
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
