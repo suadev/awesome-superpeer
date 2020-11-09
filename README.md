@@ -26,6 +26,8 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
+* [Mert Cukuren](https://superpeer.com/ui) - UI Developer
+* [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 
 ## Back-end Software Development
 
