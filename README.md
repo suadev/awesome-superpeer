@@ -23,6 +23,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
+* [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 
 ## Computer Vision and Image Processing
 
@@ -43,6 +44,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Hakan Yuksel](https://superpeer.com/yukselis) - Enterprise Architect, Enterprise Security Architect
 * [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Enterprise Architect based on IAM and PAM.
+* [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 
 ## Fintech 
 
