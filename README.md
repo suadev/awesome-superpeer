@@ -22,6 +22,8 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
+* [Ali İlteriş Keskin](https://superpeer.com/ilteriskeskin) - Software Developer, Free Software Enthusiast, Python and GNU/Linux Lover
+
 
 ## Computer Vision and Image Processing
 
