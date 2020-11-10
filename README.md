@@ -55,6 +55,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Front-end Software Development
 
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
+* [Enes Öztürk](https://superpeer.com/enesozturk) - JavaScript Developer Open Source, UI Design and Paragliding Enthusiast
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
