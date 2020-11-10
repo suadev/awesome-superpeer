@@ -17,12 +17,13 @@ If you know a superpeer account who is not on the list, please don't hesitate to
     
 ## Back-end Software Development
 
+* [Ali İlteriş Keskin](https://superpeer.com/ilteriskeskin) - Software Developer, Free Software Enthusiast, Python and GNU/Linux Lover
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
-* [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
+* [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 
 ## Computer Vision and Image Processing
@@ -64,5 +65,5 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
-* [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer, CTO at @monofor
+* [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
