@@ -28,6 +28,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
+* [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
 
 ## Computer Vision and Image Processing
 
