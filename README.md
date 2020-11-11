@@ -71,7 +71,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer, CTO at @monofor
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 
-
 ## Other
 
 * [Yigit Konur](https://superpeer.com/yigit) - Product strategy, large-scale crawling, content marketing, building agency, SEO.
