@@ -22,11 +22,12 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Furkan Bozdağ](https://superpeer.com/bozd4g) - Software Engineer, Open Source Enthusiast and Blogger
+* [Kaan Özbudak](https://superpeer.com/kaanozbudak) - Software Engineer, Big Data-Open Source
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
-* [Kaan Özbudak](https://superpeer.com/kaanozbudak) - Software Engineer, Big Data-Open Source
+
 ## Computer Vision and Image Processing
 
 * [İbrahim Delibaşoğlu](https://superpeer.com/mribrahim) - Computer Vision/Image processing Researcher
