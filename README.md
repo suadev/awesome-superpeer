@@ -28,6 +28,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
+* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
 
 ## Computer Vision and Image Processing
 
@@ -64,6 +65,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Front-End Developer, Software Engineer
+* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
 
 ## Software Career Menthorship
 
