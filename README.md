@@ -19,6 +19,8 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 * [Ali İlteriş Keskin](https://superpeer.com/ilteriskeskin) - Software Developer, Free Software Enthusiast, Python and GNU/Linux Lover
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
+* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
+* [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Furkan Bozdağ](https://superpeer.com/bozd4g) - Software Engineer, Open Source Enthusiast and Blogger
@@ -27,8 +29,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
-* [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
-* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
+* [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
 
 ## Computer Vision and Image Processing
 
@@ -57,6 +58,8 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 ## Front-end Software Development
 
+* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
+* [Ebru Gulec](https://superpeer.com/ebrugulec) - Front-End Developer, Software Engineer
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Enes Öztürk](https://superpeer.com/enesozturk) - JavaScript Developer Open Source, UI Design and Paragliding Enthusiast
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
@@ -64,8 +67,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
-* [Ebru Gulec](https://superpeer.com/ebrugulec) - Front-End Developer, Software Engineer
-* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
 
 ## Software Career Menthorship
 
@@ -163,7 +164,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [onur dayibasi](https://superpeer.com/odayibasi) - Senior Frontend Developer
 * [Çalgan Aygün](https://superpeer.com/calganaygun) - Geliştirici, Cloud ve DevOps, OSINT Toplama Uzmanı, Topluluk Organizatörü
 * [Enver Çağrı Yıldırım](https://superpeer.com/cagri) -
-* [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
 * [Onur Gültekin](https://superpeer.com/og) - Fullstack Developer at Justmop
 * [Harun Ömer Özüyusuf](https://superpeer.com/harun) - Donanım Uzm.
 * [Mustafa Dalci](https://superpeer.com/mustafadalci) - Userspots Kurucusu ve UX Danışmanı
