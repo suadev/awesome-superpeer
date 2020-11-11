@@ -26,7 +26,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
-
+* [Kaan Özbudak](https://superpeer.com/kaanozbudak) - Software Engineer, Big Data-Open Source
 ## Computer Vision and Image Processing
 
 * [İbrahim Delibaşoğlu](https://superpeer.com/mribrahim) - Computer Vision/Image processing Researcher
