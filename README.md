@@ -21,7 +21,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 * [Ali İlteriş Keskin](https://superpeer.com/ilteriskeskin) - Software Developer, Free Software Enthusiast, Python and GNU/Linux Lover
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
-* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
@@ -50,7 +50,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 ## Enterprise Architecture
 
-* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Hakan Yuksel](https://superpeer.com/yukselis) - Enterprise Architect, Enterprise Security Architect
 * [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Enterprise Architect based on IAM and PAM.
@@ -62,7 +62,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 ## Front-end Software Development
 
-* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Front-End Developer, Software Engineer
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
@@ -75,11 +75,11 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 ## Mobile App Software Development
 
-* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 
 ## Software Career Menthorship
 
-* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
