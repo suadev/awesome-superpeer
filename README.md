@@ -27,6 +27,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Furkan Bozdağ](https://superpeer.com/bozd4g) - Software Engineer, Open Source Enthusiast and Blogger
+* [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer, Open Source Enthusiast
 * [Kaan Özbudak](https://superpeer.com/kaanozbudak) - Software Engineer, Big Data-Open Source
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
@@ -69,6 +70,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Enes Öztürk](https://superpeer.com/enesozturk) - JavaScript Developer Open Source, UI Design and Paragliding Enthusiast
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
+* [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer, Open Source Enthusiast
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
@@ -148,7 +150,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Emre Tekelioglu](https://superpeer.com/emret) - Software Engineer
 * [Ogulcan Eristi](https://superpeer.com/ogulcan) - Jr. Frontend Developer
 * [Yusuf Özgül](https://superpeer.com/yusuf.ozgul) - iOS Developer at Trendyol
-* [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer & Architect, Open Source Enthusiast
 * [Can Pekin](https://superpeer.com/canpekin) - Visual Communication Designer & Consultant | Brand Strategy | Digital Branding
 * [Hasan YILDIZ](https://superpeer.com/hasanyildiz84) - Start UP Mentor
 * [Umut YILDIZ](https://superpeer.com/umutyildiz) - R&D Engineer, Industrial Product Designer
