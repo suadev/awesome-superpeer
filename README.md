@@ -14,6 +14,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
     - [Fintech](#fintech)
     - [Front-end Software Development](#front-end-software-development)
     - [Software Career Menthorship](#software-career-menthorship)
+    - [Mobile App Software Development](#mobile-app-software-development)
     
 ## Back-end Software Development
 
@@ -30,6 +31,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 * [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
+* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 
 ## Computer Vision and Image Processing
 
@@ -51,6 +53,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Enterprise Architect based on IAM and PAM.
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
+* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 
 ## Fintech 
 
@@ -67,6 +70,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
+* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 
 ## Software Career Menthorship
 
@@ -75,6 +79,11 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer, CTO at @monofor
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
+* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+
+## Mobile App Software Development
+
+* [Baris Ceviz](https://superpeer.com/barisceviz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 
 ## Other
 
