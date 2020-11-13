@@ -29,12 +29,12 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Furkan Bozdağ](https://superpeer.com/bozd4g) - Software Engineer, Open Source Enthusiast and Blogger
 * [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer, Open Source Enthusiast
 * [Kaan Özbudak](https://superpeer.com/kaanozbudak) - Software Engineer, Big Data-Open Source
+* [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 * [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
-* [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 
 ## Computer Vision and Image Processing
 
@@ -73,9 +73,9 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
 * [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer, Open Source Enthusiast
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
+* [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
-* [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 
 ## Mobile App Software Development
 
