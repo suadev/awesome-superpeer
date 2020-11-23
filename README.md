@@ -23,6 +23,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
+* [Can Turk](https://superpeer.com/iamcanturk) - Php, Laravel, Management Information Systems
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
