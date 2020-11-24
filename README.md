@@ -78,6 +78,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
+* [Halit Güvenilir](https://superpeer.com/hgm) - Front-End Developer
 
 ## Mobile App Software Development
 
