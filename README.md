@@ -35,8 +35,9 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
-* [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
 * [Umut Kahraman](https://superpeer.com/kahraman) - Software Engineer
+* [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
+
 
 ## Computer Vision and Image Processing
 
@@ -72,13 +73,13 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Eser Ozvataf](https://superpeer.com/eser) - Software Consultant, Engineering Manager, Open Source Enthusiast, Streamer
 * [Enes Öztürk](https://superpeer.com/enesozturk) - JavaScript Developer Open Source, UI Design and Paragliding Enthusiast
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
+* [Halit Güvenilir](https://superpeer.com/hgm) - Front-End Developer
 * [Hatice Edis](https://superpeer.com/edisdev) - Front-End Developer
 * [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer, Open Source Enthusiast
 * [Mert Cukuren](https://superpeer.com/ui) - UI Developer
 * [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
-* [Halit Güvenilir](https://superpeer.com/hgm) - Front-End Developer
 
 ## Mobile App Software Development
 
