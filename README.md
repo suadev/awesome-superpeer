@@ -30,6 +30,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Furkan Bozdağ](https://superpeer.com/bozd4g) - Software Engineer, Open Source Enthusiast and Blogger
 * [İzni Burak Demirtaş](https://superpeer.com/izniburak) - Software Engineer, Open Source Enthusiast
 * [Kaan Özbudak](https://superpeer.com/kaanozbudak) - Software Engineer, Big Data-Open Source
+* [Mehmet Canhoroz](https://superpeer.com/mehmetcanhoroz) - Software Engineer, FinTech & PCI DSS, Startup Supporter
 * [Mert Koseoglu](https://superpeer.com/mksglu) - Software Developer
 * [Muhammed Hilmi Koca](https://superpeer.com/muhammed) - Senior Software Developer
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer
