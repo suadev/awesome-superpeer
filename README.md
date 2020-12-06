@@ -38,6 +38,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 * [Umut Kahraman](https://superpeer.com/kahraman) - Software Engineer
 * [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
+* [Oktay Kır](https://superpeer.com/oktay) - Software Architect
 
 
 ## Computer Vision and Image Processing
@@ -95,6 +96,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer, CTO at @monofor
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
+* [Oktay Kır](https://superpeer.com/oktay) - Software Architect
 
 ## Other
 
