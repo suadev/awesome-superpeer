@@ -15,6 +15,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
     - [Front-end Software Development](#front-end-software-development)
     - [Mobile App Software Development](#mobile-app-software-development)
     - [Software Career Menthorship](#software-career-menthorship)
+    - [Other](#other)
   
     
 ## Back-end Software Development
