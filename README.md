@@ -244,3 +244,4 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Feyza Okumuş](https://superpeer.com/feyza) - Product Designer
 * [Yusuf Dönmez](https://superpeer.com/yusufdonmez) - Front-end Developer
 * [Serhat Çulhalık](https://superpeer.com/serhatculhalik) - Senior Product Manager
+* [Ümit Duran](https://superpeer.com/flutterist) - Flutter Developer
