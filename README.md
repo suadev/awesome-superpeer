@@ -89,6 +89,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Cafer Mert Ceyhan](https://superpeer.com/mertceyhan) - Android Developer @ dolap.com
+* [Candost Dagdeviren](https://superpeer.com/candost) - Senior Software Engineer, Mentor, Consultant (iOS)
 * [Murat Can BUR](https://superpeer.com/muratcanbur) - Android Developer @ Trendyol 
 * [Mert SIMSEK](https://superpeer.com/iammert) - Senior Android Developer
 * [Ümit Duran](https://superpeer.com/flutterist) - Flutter Developer
@@ -96,6 +97,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Software Career Menthorship
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Candost Dagdeviren](https://superpeer.com/candost) - Senior Software Engineer, Mentor, Consultant
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
 * [Oktay Kır](https://superpeer.com/oktay) - Software Architect
