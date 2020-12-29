@@ -14,7 +14,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
     - [Fintech](#fintech)
     - [Front-end Software Development](#front-end-software-development)
     - [Mobile App Software Development](#mobile-app-software-development)
-    - [Software Career Menthorship](#software-career-menthorship)
+    - [Software Career Mentorship](#software-career-mentorship)
     - [Other](#other)
   
     
@@ -95,7 +95,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Yusuf Çakmak](https://superpeer.com/yusufcakmak) - Senior Android Developer @ arabam.com 
 * [Ümit Duran](https://superpeer.com/flutterist) - Flutter Developer
 
-## Software Career Menthorship
+## Software Career Mentorship
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Candost Dagdeviren](https://superpeer.com/candost) - Senior Software Engineer, Mentor, Consultant
@@ -173,7 +173,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Umut YILDIZ](https://superpeer.com/umutyildiz) - R&D Engineer, Industrial Product Designer
 * [SAVAŞ YILDIRIM](https://superpeer.com/savasyildirim) - Uygulama ve Sistem Yöneticisi - Çağrı merkezi
 * [Nevzat Günay](https://superpeer.com/nevzatgunay) - Front-end Engineer
-* [Cigdem  Oztabak ](https://superpeer.com/cigdemoztabak) - Let's talk about Business Development&Content Marketing&Podcasting
+* [Cigdem  Oztabak ](https://superpeer.com/cigdemoztabak) - Let's talk about Business Development & Content Marketing & Podcasting
 * [Cenk Kalpakoglu](https://superpeer.com/cenkk) - Software Dev, Appsec Expert, DevSecOps Consultant, CEO of Kondukto
 * [Can KIRCA](https://superpeer.com/cankirca) - IT Manager
 * [Burak KUTBAY](https://superpeer.com/burakk) - Java Sofware Developer / Wordpress Blogger
