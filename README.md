@@ -84,6 +84,9 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Murat Benli](https://superpeer.com/muratbenli) - Front-End Developer
 * [Onur Aslan](https://superpeer.com/onuraslan) - JavaScript Developer, Web Designer
 * [Berat Bozkurt](https://superpeer.com/berat) - Front-end developer
+* [Esma Aydoğdu](https://superpeer.com/orithefront) - Front-End Developer
+* [Bilal Çınarlı](https://superpeer.com/bcinarli) - Frontend Architect
+* [Sinan Mutlu](https://superpeer.com/sinanmutlu) - Front-End Developer
 
 ## Mobile App Software Development
 
@@ -95,6 +98,8 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Subhrajyoti Sen](https://superpeer.com/subhrajyoti) - Android Developer, Mentor
 * [Yusuf Çakmak](https://superpeer.com/yusufcakmak) - Senior Android Developer @ arabam.com 
 * [Ümit Duran](https://superpeer.com/flutterist) - Flutter Developer
+* [Nuh Koca](https://superpeer.com/nuhkoca) - Android Engineer
+* [Ogulcan Orhan](https://superpeer.com/ogulcanor) - iOS & Android Developer, Content Producer
 
 ## Software Career Mentorship
 
@@ -253,3 +258,18 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Yusuf Dönmez](https://superpeer.com/yusufdonmez) - Front-end Developer
 * [Serhat Çulhalık](https://superpeer.com/serhatculhalik) - Senior Product Manager
 * [Ali Sabri Sır](https://superpeer.com/alisabri) - Cyber Threat Intelligence Analyst Intern
+* [Tolga Cesur](https://superpeer.com/tolgacesur) - Software Developer
+* [Batın Eryılmaz](https://superpeer.com/batin) - Software Engineer
+* [Mustafa Karakus](https://superpeer.com/mk) - Software Engineer, Chapter Lead
+* [Senem Anil](https://superpeer.com/senemanil) - Advisor for People, Startups and Tech Companies
+* [Nihal Mehta](https://superpeer.com/nihal) - 
+* [Aaron Jacobson](https://superpeer.com/aaronjacobson) - SaaS, DevOps, AI, Cybersecurity, Robotics
+* [Jesse Middleton](https://superpeer.com/jesse) - Investor at Flybridge Capital, Co-founder at WeWork Labs.
+* [Maitree Mervana](https://superpeer.com/maitree) - Investor @acrewcapital
+* [Au Pleguezuelo](https://superpeer.com/auareyou) - Systems Designer
+* [Batuhan Karasakal](https://superpeer.com/batuhankrskl) - Product Designer
+* [Muhammet Dilmaç](https://superpeer.com/m_dilmac) - Software Developer
+* [Hayreddin Tüzel](https://superpeer.com/ht) - Javascript, Node.js, React, Vue, PHP, Laravel, Python, Django, Flask
+* [Sezer İltekin](https://superpeer.com/sezer) - Blog Yazarı
+* [Özgür Adem Işıklı](https://superpeer.com/iozguradem) - Software Developer, Community Organizer
+* [Serkan Bingöl](https://superpeer.com/serkanbingol) - Solutions Architect , AWS Authorized Instructor
