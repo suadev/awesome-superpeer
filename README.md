@@ -40,6 +40,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Turgay Özgür](https://superpeer.com/turgay) - Software Architect
 * [Umut Kahraman](https://superpeer.com/kahraman) - Software Engineer
 * [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
+* [Nailcan Küçük](https://superpeer.com/nail) - Software Engineer
 
 
 ## Computer Vision and Image Processing
