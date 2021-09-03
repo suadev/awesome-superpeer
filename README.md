@@ -24,6 +24,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
 * [Cagatay Cali](https://superpeer.com/cagatay) - Software Engineer
+* [Can Tecim](https://superpeer.com/cantecim) - Entrepreneur, CTO, Head of Product, Senior Software Engineer
 * [Can Turk](https://superpeer.com/canturk) - Php, Laravel, Management Information Systems
 * [Ebru Gulec](https://superpeer.com/ebrugulec) - Software Engineer
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
@@ -50,6 +51,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## DevOps
 
 * [Azmi Mengü](https://superpeer.com/azmimengu) - Software Architect, AWS Community Builder
+* [Can Tecim](https://superpeer.com/cantecim) - Entrepreneur, CTO, Head of Product, Senior Software Engineer
 * [Derya Sezen](https://superpeer.com/dorian) - DevOps Consultant
 * [Serhat Can](https://superpeer.com/serhat) - AWS, DevOps, Serverless, Community Builder, SaaS Marketing, Developer Marketing
 
@@ -60,6 +62,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Enterprise Architecture
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Can Tecim](https://superpeer.com/cantecim) - Entrepreneur, CTO, Head of Product, Senior Software Engineer
 * [Hakan Yuksel](https://superpeer.com/yukselis) - Enterprise Architect, Enterprise Security Architect
 * [Hüseyin Mert](https://superpeer.com/hmert) - on-prem, hibrid and cloud architect, XaaS
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Enterprise Architect based on IAM and PAM.
@@ -105,6 +108,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Software Career Mentorship
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Can Tecim](https://superpeer.com/cantecim) - Entrepreneur, CTO, Head of Product, Senior Software Engineer
 * [Candost Dagdeviren](https://superpeer.com/candost) - Senior Software Engineer, Mentor, Consultant
 * [Erhan Yakut](https://superpeer.com/yakuter) - PHP, Go and JS Developer, Open Source, Blogger
 * [Fatih Kadir Akın](https://superpeer.com/f) - JavaScript Developer, Open Source Enthusiast, Community Organizer, Author
@@ -119,6 +123,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Serbay arda  Ayzit](https://superpeer.com/serbay) - Digital marketing professional
 * [Berkan Bagci](https://superpeer.com/berkan) - Analytics Consultant
 * [Cavide Pala](https://superpeer.com/cavide) - CRO, Analytics, UX, A/B Testing
+* [Can Tecim](https://superpeer.com/cantecim) - Entrepreneur, CTO, Head of Product, Senior Software Engineer
 * [Çağrı Hoca](https://superpeer.com/cagrihoca) - Language Specialist
 * [Celil Bozkurt](https://superpeer.com/celil) - Indie Hackers, Mobile Growth Manager
 * [Adem Furkan ÖZCAN](https://superpeer.com/ademozcan) - Mobile Dev
