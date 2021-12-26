@@ -42,7 +42,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Umut Kahraman](https://superpeer.com/kahraman) - Software Engineer
 * [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
 * [Nailcan Küçük](https://superpeer.com/nail) - Software Engineer
-
+* [Gökhan Ayrancıoğlu](https://superpeer.com/gokhana) - Software Engineer, Community Organizer, Blogger
 
 ## Computer Vision and Image Processing
 
@@ -71,6 +71,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Fintech 
 
 * [Hüseyin Mert](https://superpeer.com/hmert) - Fintech, payment gateways and wallet 
+* [Gökhan Ayrancıoğlu](https://superpeer.com/gokhana) - Fintech software backend-side, wallet and psp integrations.
 
 ## Front-end Software Development
 
