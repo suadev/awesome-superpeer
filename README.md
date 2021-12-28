@@ -138,6 +138,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Uraz Kaspar](https://superpeer.com/uraz) - Yeditepe Üniversitesi G.S.F Öğretim Görevlisi & Co-Founder Podfresh
 * [Çağdaş Dağ](https://superpeer.com/cagdas) - WordPress Developer
 * [Beril Karabulut](https://superpeer.com/berilkarabulut) - Design & Communications
+* [Aycan Doganlar](https://superpeer.com/ayycan) - Product Design, Design Consultancy, Mentorship, Networking 
 * [Oğuz Yağız Kara](https://superpeer.com/oguzyagiz) - Product Design, Design System, User Interface, User Flow
 * [Berk Öztoprak](https://superpeer.com/berkoztoprak) - Product Manager - Growth
 * [Vizesiz Geziyorum](https://superpeer.com/vizesizgeziyorum) - Dünya seni bekliyor, keşfet!
