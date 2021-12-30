@@ -105,6 +105,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Ümit Duran](https://superpeer.com/flutterist) - Flutter Developer
 * [Nuh Koca](https://superpeer.com/nuhkoca) - Android Engineer
 * [Ogulcan Orhan](https://superpeer.com/ogulcanor) - iOS & Android Developer, Content Producer
+* [Doğancan Mavideniz](https://superpeer.com/dogancan) - Junior iOS Developer @ Appcent
 
 ## Software Career Mentorship
 
