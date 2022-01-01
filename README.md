@@ -106,6 +106,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Nuh Koca](https://superpeer.com/nuhkoca) - Android Engineer
 * [Ogulcan Orhan](https://superpeer.com/ogulcanor) - iOS & Android Developer, Content Producer
 * [Doğancan Mavideniz](https://superpeer.com/dogancan) - Junior iOS Developer @ Appcent
+* [Yusuf Demirci](https://superpeer.com/demirciy) - iOS Developer @ Freelancer
 
 ## Software Career Mentorship
 
