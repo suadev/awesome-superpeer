@@ -96,6 +96,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 ## Mobile App Software Development
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
+* [Rajat Sharma](https://superpeer.com/rajat) - iOS Engineer @ Uber
 * [Cafer Mert Ceyhan](https://superpeer.com/mertceyhan) - Android Developer @ dolap.com
 * [Candost Dagdeviren](https://superpeer.com/candost) - Senior Software Engineer, Mentor, Consultant (iOS)
 * [Murat Can BUR](https://superpeer.com/muratcanbur) - Android Developer @ Trendyol 
