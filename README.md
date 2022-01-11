@@ -109,6 +109,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Doğancan Mavideniz](https://superpeer.com/dogancan) - Junior iOS Developer @ Appcent
 * [Yusuf Demirci](https://superpeer.com/demirciy) - iOS Developer @ Freelancer
 * [Ahmet Yalçınkaya](https://superpeer.com/ahmetws) - Indie iOS Developer
+* [Ali Can Batur](https://superpeer.com/alican) - iOS Developer
 
 ## Software Career Mentorship
 
