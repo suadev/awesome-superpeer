@@ -43,6 +43,17 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Yunus Bulut](https://superpeer.com/yunusbulut) - Software Developer, Ruby Developer
 * [Nailcan Küçük](https://superpeer.com/nail) - Software Engineer
 * [Gökhan Ayrancıoğlu](https://superpeer.com/gokhana) - Software Engineer, Community Organizer, Blogger
+* [Abdullah Bozkurt](https://superpeer.com/abdullahbozkurt) - Software Developer
+* [Batuhan Katırcı](https://superpeer.com/batuhankatirci) - Appsec & Backend Developer
+* [Can Balkaya](https://superpeer.com/canbalkya) - Software Engineer
+* [Ekin Yucel](https://superpeer.com/ekinyucel) - Software Engineer
+* [Emrah Dayıoğlu](https://superpeer.com/emrahday) - Software Engineer
+* [Emre Sandikci](https://superpeer.com/emresandikci) - Software Engineer
+* [Furkan Kapukaya](https://superpeer.com/furkankapukaya) - Software Developer
+* [Furkan Kılıç](https://superpeer.com/furkankilic) - Software Developer
+* [Kadir Furkan Kiraz](https://superpeer.com/hellokfk) - Software Developer
+* [Mesut Öncel](https://superpeer.com/mesutoncel) - Software Developer
+* [Arda Barış Tonç](https://superpeer.com/ab) - Full-stack Javascript & Blockchain Developer
 
 ## Computer Vision and Image Processing
 
@@ -92,6 +103,14 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Esma Aydoğdu](https://superpeer.com/orithefront) - Front-End Developer
 * [Bilal Çınarlı](https://superpeer.com/bcinarli) - Frontend Architect
 * [Sinan Mutlu](https://superpeer.com/sinanmutlu) - Front-End Developer
+* [Abdullah Veliyev](https://superpeer.com/abdullah-v) - Frontend Developer
+* [Ali Demirci](https://superpeer.com/alidemirci) - WordPress Designer & Developer
+* [Aykut Kardaş](https://superpeer.com/aykutkardas) - Front-End Developer
+* [Oktay Bozacı](https://superpeer.com/bzc) - Senior Frontend Developer
+* [Emre Kılıç](https://superpeer.com/emrekilic) - Frontend Developer
+* [Hasan Sezai Türkyılmaz](https://superpeer.com/hasan) - Frontend Developer
+* [Musa Yazlık](https://superpeer.com/musayazlik) - Front-End Developer
+* [Oğuz Ergül](https://superpeer.com/oguzergul) - Frontend Developer
 
 ## Mobile App Software Development
 
@@ -111,6 +130,11 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Ahmet Yalçınkaya](https://superpeer.com/ahmetws) - Indie iOS Developer
 * [Ali Can Batur](https://superpeer.com/alican) - iOS Developer
 * [Ahmet Sina Ustem](https://superpeer.com/as) - iOS Developer
+* [Bilal Arslan](https://superpeer.com/bilalarslan) - iOS Developer
+* [Burak Eray Kayis](https://superpeer.com/burakeray) - Senior Mobile Application Developer
+* [Ogulcan Orhan](https://superpeer.com/ogulcanor) - iOS & Android Developer
+* [Muhammed Tanriverdi](https://superpeer.com/tanriverdi) - iOS Developer
+* [Seyfeddin Bassarac](https://superpeer.com/seyfeddin) - iOS Developer
 
 ## Software Career Mentorship
 
@@ -287,3 +311,46 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Sezer İltekin](https://superpeer.com/sezer) - Blog Yazarı
 * [Özgür Adem Işıklı](https://superpeer.com/iozguradem) - Software Developer, Community Organizer
 * [Serkan Bingöl](https://superpeer.com/serkanbingol) - Solutions Architect , AWS Authorized Instructor
+* [Dawid Gol](https://superpeer.com/0xdawg) - Scientist and Engineer
+* [Aadesh Mistry](https://superpeer.com/aadesh) - Product Designer & Mentor
+* [Jennifer Aaker](https://superpeer.com/aaker) - 
+* [Ali Abdulkadir Ali](https://superpeer.com/aali) - 
+* [Abhay Rahul](https://superpeer.com/abhayrahul) - Product Designer
+* [Abhi N](https://superpeer.com/abhi2712) - 
+* [Abdurrahman Dilmac](https://superpeer.com/ad) - 
+* [Adrian Diaz](https://superpeer.com/addiaz) - SalesForce Expert
+* [Addis Fouche-Channer](https://superpeer.com/addisfc) - Freelance Writer
+* [Adem İlter](https://superpeer.com/adem) - Dijital Ürün Tasarımcı
+* [Adem Kanat](https://superpeer.com/ademkanat) - Cyber Security Engineer
+* [Adithya Shreshti](https://superpeer.com/adithya) - 
+* [Adrian Sameli](https://superpeer.com/adriansameli) - Product Manager
+* [Ali Çorak](https://superpeer.com/alicorak) - Mühendis & Tasarımcı
+* [Can Aksoy](https://superpeer.com/canaksoy) - Girişimci
+* [Chris Messina](https://superpeer.com/chrismessina) - Product Designer
+* [Deniz Duman](https://superpeer.com/denizduman) - Yüksek Mimar
+* [Y.Emre Akpinar](https://superpeer.com/emreakpinar) - Sportpreneur
+* [Fatih Kılıç](https://superpeer.com/f8k) - Engineering Manager
+* [Fajar Siddiq](https://superpeer.com/fajarsiddiq) - 
+* [femke .design](https://superpeer.com/femke) - Product Designer, Design Educator, Mentor
+* [Furkan Ahi](https://superpeer.com/furkanahi) - Entrepreneur
+* [Gemma Helyer](https://superpeer.com/gemmahelyer) - Senior Product Designer
+* [Gökhan Güven](https://superpeer.com/gokhanguven) - Product Development
+* [Guglielmo Pardo](https://superpeer.com/guglielmo) - Product Design Manager & Entrepreneur
+* [Hamdi Küçük](https://superpeer.com/hamdikucukk) - 
+* [Hamza Uzumcu](https://superpeer.com/hamza) - Entrepreneur
+* [Hunter Walk](https://superpeer.com/hunterwalk) - Writer
+* [İbrahim Atay](https://superpeer.com/ibrahimatay) - 
+* [İbrahim Sarbay](https://superpeer.com/ibrahimsarbay) - Tech Enthusiast
+* [Jasmine Lawrence](https://superpeer.com/jasminelawrence) - Senior Product Manager
+* [Joey Goksu](https://superpeer.com/joey) - Engineer
+* [Kaleigh Moore](https://superpeer.com/kaleigh) - Freelance Writer
+* [Mert Susur](https://superpeer.com/msusur) - Engineering Manager
+* [Mubashar Iqbal](https://superpeer.com/mubashariqbal) - 
+* [Muratcan İçdağ](https://superpeer.com/muratcanicdag) - Sosyal Medya Uzmanı
+* [Janine Sickmeyer](https://superpeer.com/myfriendjanine) - Tech Founder
+* [Nejat Seçkin Oral](https://superpeer.com/nseckinoral) - Product Designer
+* [Sara Brunettini](https://superpeer.com/sarabrunettini) - Product Designer & Mentor
+* [makerHub HCD](https://superpeer.com/tetyana) - 
+* [Eugene Trofimov](https://superpeer.com/trofimov) - Design Manager
+* [Andy Engin Utkan](https://superpeer.com/utkan) - Salesforce Senior Consultant
+* [Wes Pendleton](https://superpeer.com/wespendleton) - Music Producer and Entrepreneur
