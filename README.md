@@ -135,6 +135,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Ogulcan Orhan](https://superpeer.com/ogulcanor) - iOS & Android Developer
 * [Muhammed Tanriverdi](https://superpeer.com/tanriverdi) - iOS Developer
 * [Seyfeddin Bassarac](https://superpeer.com/seyfeddin) - iOS Developer
+* [Ufuk Canlı](https://superpeer.com/ufukcanli) - iOS Developer
 
 ## Software Career Mentorship
 
