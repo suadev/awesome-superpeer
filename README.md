@@ -111,6 +111,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Ahmet Yalçınkaya](https://superpeer.com/ahmetws) - Indie iOS Developer
 * [Ali Can Batur](https://superpeer.com/alican) - iOS Developer
 * [Ahmet Sina Ustem](https://superpeer.com/as) - iOS Developer
+* [Ufuk Canlı](https://superpeer.com/ufukcanli) - iOS Developer
 
 ## Software Career Mentorship
 
