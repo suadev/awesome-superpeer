@@ -148,6 +148,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Selçuk Usta](https://superpeer.com/selcukusta) - Software Development Manager, Blogger
 * [Selçuk Ermaya](https://superpeer.com/selcuk) - Software & Product Developer, CTO at @monofor
 * [Suat Köse](https://superpeer.com/suadev) - Software Engineer, Blogger
+* [Caner Başaran](https://superpeer.com/canerbasaran) - Yazılım | Girişim | Kariyer
 
 ## Other
 
@@ -233,7 +234,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Ezgi Erdem Aytaç](https://superpeer.com/ezgierdemaytac) - Product Management & User Experience
 * [Oğuz Kılıç](https://superpeer.com/oguz) - Developer, Blogger, Community Organizer
 * [Arda Çetin](https://superpeer.com/ardacetin) - Digital Communication Specialist
-* [Caner Başaran](https://superpeer.com/canerbasaran) - Yazılım | Girişim | Kariyer | Beyin Fırtınası
 * [Görkem Duymaz](https://superpeer.com/gduymaz) - PHP/Laravel/VueJS
 * [onur dayibasi](https://superpeer.com/odayibasi) - Senior Frontend Developer
 * [Çalgan Aygün](https://superpeer.com/calganaygun) - Geliştirici, Cloud ve DevOps, OSINT Toplama Uzmanı, Topluluk Organizatörü
