@@ -132,7 +132,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Ahmet Sina Ustem](https://superpeer.com/as) - iOS Developer
 * [Bilal Arslan](https://superpeer.com/bilalarslan) - iOS Developer
 * [Burak Eray Kayis](https://superpeer.com/burakeray) - Senior Mobile Application Developer
-* [Ogulcan Orhan](https://superpeer.com/ogulcanor) - iOS & Android Developer
 * [Muhammed Tanriverdi](https://superpeer.com/tanriverdi) - iOS Developer
 * [Seyfeddin Bassarac](https://superpeer.com/seyfeddin) - iOS Developer
 * [Ufuk Canlı](https://superpeer.com/ufukcanli) - iOS Developer
@@ -355,3 +354,13 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Eugene Trofimov](https://superpeer.com/trofimov) - Design Manager
 * [Andy Engin Utkan](https://superpeer.com/utkan) - Salesforce Senior Consultant
 * [Wes Pendleton](https://superpeer.com/wespendleton) - Music Producer and Entrepreneur
+* [Baha Yetkin](https://superpeer.com/bahayetkin) - Oud & Makam Music Teacher
+* [Buğra Kılic](https://superpeer.com/bugrakilic) - Network Engineer
+* [Jake](https://superpeer.com/jake) - 
+* [Kadir Murat Baseren](https://superpeer.com/muratbaseren) - Consultant & Project Manager
+* [Ozan Sarıgül](https://superpeer.com/bobinkafa) - Cinema & Literary Consultant
+* [Nazlı Işık](https://superpeer.com/nazliartspace) - Artist
+* [Nezihi Gözen](https://superpeer.com/nezihigozen) - Digital Content Creator
+* [Robert "The Duke" Fedoruk](https://superpeer.com/rfedoruk) - Guidance
+* [Serdar Balcı](https://superpeer.com/serdarbalci) - MD Pathologist
+* [Zafer Demirkol](https://superpeer.com/zaferdemirkol) - AI, Coding
