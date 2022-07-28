@@ -169,7 +169,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Uraz Kaspar](https://superpeer.com/uraz) - Yeditepe Üniversitesi G.S.F Öğretim Görevlisi & Co-Founder Podfresh
 * [Çağdaş Dağ](https://superpeer.com/cagdas) - WordPress Developer
 * [Beril Karabulut](https://superpeer.com/berilkarabulut) - Design & Communications
-* [Aycan Doganlar](https://superpeer.com/ayycan) - Product Design, Design Consultancy, Mentorship, Networking 
 * [Oğuz Yağız Kara](https://superpeer.com/oguzyagiz) - Product Design, Design System, User Interface, User Flow
 * [Berk Öztoprak](https://superpeer.com/berkoztoprak) - Product Manager - Growth
 * [Vizesiz Geziyorum](https://superpeer.com/vizesizgeziyorum) - Dünya seni bekliyor, keşfet!
@@ -203,7 +202,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Emre KARA](https://superpeer.com/ekara) - Bilgisayar Mühendisi
 * [Simge Ayzit](https://superpeer.com/sayzit) - Data Analytics Consultancy
 * [Ahmet Yılmaz](https://superpeer.com/alpaca) - Mobil uygulamalar, bireysel geliştirici
-* [Remzi Barlas](https://superpeer.com/barlas) - Aerospace Engineer with UAS Expertise
 * [Türkalp Burak Kayrancıoğlu](https://superpeer.com/turkalp) - researcher
 * [Emre Erkan](https://superpeer.com/ee) - ADA'nın kurucusu, WordPress Türkiye yöneticisi, yazılım geliştirici, eş ve baba
 * [Şafak Otur](https://superpeer.com/safakotur) - Designer & Developer
@@ -212,7 +210,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Bekir Çelik](https://superpeer.com/bc) - Product Design, User Interface, UX, Social Media Management
 * [Emre Tekelioglu](https://superpeer.com/emret) - Software Engineer
 * [Ogulcan Eristi](https://superpeer.com/ogulcan) - Jr. Frontend Developer
-* [Yusuf Özgül](https://superpeer.com/yusuf.ozgul) - iOS Developer at Trendyol
 * [Can Pekin](https://superpeer.com/canpekin) - Visual Communication Designer & Consultant | Brand Strategy | Digital Branding
 * [Hasan YILDIZ](https://superpeer.com/hasanyildiz84) - Start UP Mentor
 * [Umut YILDIZ](https://superpeer.com/umutyildiz) - R&D Engineer, Industrial Product Designer
@@ -234,7 +231,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Oğuz Kılıç](https://superpeer.com/oguz) - Developer, Blogger, Community Organizer
 * [Arda Çetin](https://superpeer.com/ardacetin) - Digital Communication Specialist
 * [Görkem Duymaz](https://superpeer.com/gduymaz) - PHP/Laravel/VueJS
-* [onur dayibasi](https://superpeer.com/odayibasi) - Senior Frontend Developer
 * [Çalgan Aygün](https://superpeer.com/calganaygun) - Geliştirici, Cloud ve DevOps, OSINT Toplama Uzmanı, Topluluk Organizatörü
 * [Enver Çağrı Yıldırım](https://superpeer.com/cagri) -
 * [Onur Gültekin](https://superpeer.com/og) - Fullstack Developer at Justmop
@@ -285,7 +281,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Emre GULCAN](https://superpeer.com/emregulcan) - Microsoft Dynamics 365 | Power Platform | Azure
 * [Ugur Erdal](https://superpeer.com/ue) -
 * [İrfan ŞENER](https://superpeer.com/irfan) - Indie app developer
-* [Faruk Erdogan](https://superpeer.com/fe) - Company Builder
 * [Yusuf Özbay](https://superpeer.com/yo) - International SEO Consultant. Technical SEO. VP, SEO @peakment, prev SEO Manager
 * [Batuhan Küçükali](https://superpeer.com/batuhankucukali) - Java Developer, Open Source
 * [Muzo Berberoğlu ](https://superpeer.com/muzo178) - swiss army knife
@@ -347,7 +342,6 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Mert Susur](https://superpeer.com/msusur) - Engineering Manager
 * [Mubashar Iqbal](https://superpeer.com/mubashariqbal) - 
 * [Muratcan İçdağ](https://superpeer.com/muratcanicdag) - Sosyal Medya Uzmanı
-* [Janine Sickmeyer](https://superpeer.com/myfriendjanine) - Tech Founder
 * [Nejat Seçkin Oral](https://superpeer.com/nseckinoral) - Product Designer
 * [Sara Brunettini](https://superpeer.com/sarabrunettini) - Product Designer & Mentor
 * [makerHub HCD](https://superpeer.com/tetyana) - 
@@ -364,3 +358,9 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Robert "The Duke" Fedoruk](https://superpeer.com/rfedoruk) - Guidance
 * [Serdar Balcı](https://superpeer.com/serdarbalci) - MD Pathologist
 * [Zafer Demirkol](https://superpeer.com/zaferdemirkol) - AI, Coding
+* [Burak Çankaya](https://superpeer.com/burakcankaya) - Yüksek Elektrik-Elektronik Mühendisi
+* [Didem Küçükkaraaslan](https://superpeer.com/codingwithdidem) - Youtube Content Creator, Udemy Mentor
+* [Eileen Jan](https://superpeer.com/eileen) - Life Coach, Therapist, IT Consultant
+* [Ferhat Fırat](https://superpeer.com/ff) - Website Uzmanı
+* [Görkem Yıldız](https://superpeer.com/gorkemyildiz) - UI/UX Designer
+* [Melih Safa Çelik](https://superpeer.com/melihsafacelik) - Software Developer
