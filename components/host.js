@@ -7,7 +7,7 @@ export default function Host({ host }) {
         <h3 className="text-lg font-medium group-hover:text-blue-600">
           {host.name}
         </h3>
-        <h5 className="text-sm font-light h-12 overflow-scroll">
+        <h5 className="text-sm font-light h-12 overflow-y-auto">
           {host.categories.join(", ")}
         </h5>
         <p className="">{host.description || "description not specified"}</p>
