@@ -2,6 +2,8 @@
 
 If you know a superpeer account who is not on the list, please don't hesitate to contribute.
 
+Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
+
 ### Contents
 
 - [Awesome Superpeer](#awesome-superpeer)
@@ -118,6 +120,7 @@ If you know a superpeer account who is not on the list, please don't hesitate to
 * [Rajat Sharma](https://superpeer.com/rajat) - iOS Engineer @ Uber
 * [Cafer Mert Ceyhan](https://superpeer.com/mertceyhan) - Android Developer @ dolap.com
 * [Candost Dagdeviren](https://superpeer.com/candost) - Senior Software Engineer, Mentor, Consultant (iOS)
+* [Latif Atçı](https://superpeer.com/latifatci) - iOS Developer @ Trendyol
 * [Murat Can BUR](https://superpeer.com/muratcanbur) - Android Developer @ Trendyol 
 * [Mert SIMSEK](https://superpeer.com/iammert) - Senior Android Developer
 * [Subhrajyoti Sen](https://superpeer.com/subhrajyoti) - Android Developer, Mentor

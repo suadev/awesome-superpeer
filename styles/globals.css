@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    font-family: Helvetica, system-ui, sans-serif;
+  }
+}
+
+@layer components {
+  .site-container {
+    @apply max-w-4xl mx-auto px-2 md:px-6;
+  }
+}
