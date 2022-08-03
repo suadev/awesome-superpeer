@@ -4,6 +4,7 @@ import { useState } from "react";
 import Head from "next/head";
 import useSwr from "swr";
 import selectSnacks from "../selectors/hosts";
+import GithubCorner from "react-github-corner";
 
 const fetcher = (url) => fetch(url).then((res) => res.json());
 
@@ -26,6 +27,7 @@ export default function Home() {
         ></link>
         <title>awesome-superpeer</title>
       </Head>
+      <GithubCorner href="https://github.com/EmirhanKarahan/awesome-superpeer" />
       <header className="flex justify-center site-container py-4">
         <h1 className="text-3xl font-bold">awesome-superpeer 🤙</h1>
       </header>
