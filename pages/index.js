@@ -1,6 +1,7 @@
 import Search from "../components/search";
 import Host from "../components/host";
-import { useEffect, useState } from "react";
+import { useState } from "react";
+import Head from "next/head";
 import useSwr from "swr";
 import selectSnacks from "../selectors/hosts";
 
@@ -18,6 +19,13 @@ export default function Home() {
 
   return (
     <>
+      <Head>
+        <link
+          rel="icon"
+          href="data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22><text y=%22.9em%22 font-size=%2290%22>🤙</text></svg>"
+        ></link>
+        <title>awesome-superpeer</title>
+      </Head>
       <header className="flex justify-center site-container py-4">
         <h1 className="text-3xl font-bold">awesome-superpeer 🤙</h1>
       </header>
