@@ -367,3 +367,17 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Ferhat Fırat](https://superpeer.com/ff) - Website Uzmanı
 * [Görkem Yıldız](https://superpeer.com/gorkemyildiz) - UI/UX Designer
 * [Melih Safa Çelik](https://superpeer.com/melihsafacelik) - Software Developer
+* [Ahmet Şahin Akbulut](https://superpeer.com/ahmetsahinakbulut) - Trainer, Consultant, Coach, Mentor
+* [Damla Öğretmen](https://superpeer.com/damlaogretmen) - Almanca Öğretmeni
+* [Doruk Somunkıran](https://superpeer.com/doruksomunkiran) - Müzisyen
+* [Ebru Tezcan Ketenci](https://superpeer.com/cellodersleri) - Eğitmen
+* [Ercan Kuru](https://superpeer.com/ercankuru) - Fotoğrafçı
+* [Halil Cem Güdek](https://superpeer.com/muzikteorim) - Eğitmen
+* [Luc Forsyth](https://superpeer.com/lucforsyth) - Documentary Filmmaker, Photographer, Educator
+* [Maria Rapetskaya](https://superpeer.com/riaskaya) - Creative Entrepreneur
+* [Mehmet Hamdi Bol](https://superpeer.com/mehmethamdibol) - Danışman, Youtuber, Yazar
+* [Halil İbrahim YURDUSEV](https://superpeer.com/modehalilibrahim) - Marketing Manager
+* [Özge Mardi](https://superpeer.com/ozgemardi) - Sanat Yönetmeni, Yazar, Eğitmen, Influencer
+* [Pelin Dilara Çolak](https://superpeer.com/dilozof) - Content Creator
+* [Tuan Nguyen](https://superpeer.com/tuan) - Azure Data Platform Consultant and Data Engineer
+* [Vanessa Thomson](https://superpeer.com/vanessa) - German Teacher
