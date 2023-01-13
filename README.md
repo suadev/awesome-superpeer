@@ -56,6 +56,7 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Kadir Furkan Kiraz](https://superpeer.com/hellokfk) - Software Developer
 * [Mesut Öncel](https://superpeer.com/mesutoncel) - Software Developer
 * [Arda Barış Tonç](https://superpeer.com/ab) - Full-stack Javascript & Blockchain Developer
+* [Murat Karagözgil](https://superpeer.com/meka) - Software Developer
 
 ## Computer Vision and Image Processing
 
