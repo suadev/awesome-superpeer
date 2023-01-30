@@ -382,3 +382,9 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Pelin Dilara Çolak](https://superpeer.com/dilozof) - Content Creator
 * [Tuan Nguyen](https://superpeer.com/tuan) - Azure Data Platform Consultant and Data Engineer
 * [Vanessa Thomson](https://superpeer.com/vanessa) - German Teacher
+* [Onat Korucu](https://superpeer.com/onat-korucu) - Senior Game Developer, Lecturer
+* [Kadir Faruk Ökenli](https://superpeer.com/fokenli) - Eğitmen
+* [Ayhan Özden](https://superpeer.com/ayhanozden) - Yazar, Finansal Danışman
+* [Haluk Memili](https://superpeer.com/pisagor) - Eğitmen
+* [mari](https://superpeer.com/mariapadaam) - Dijital İçerik Üretici
+* [Mustafa Başal](https://superpeer.com/mustafabasal) - Music Producer, Mixing Engineer
