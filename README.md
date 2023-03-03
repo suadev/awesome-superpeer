@@ -114,6 +114,7 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Hasan Sezai Türkyılmaz](https://superpeer.com/hasan) - Frontend Developer
 * [Musa Yazlık](https://superpeer.com/musayazlik) - Front-End Developer
 * [Oğuz Ergül](https://superpeer.com/oguzergul) - Frontend Developer
+* [Zeynep Nur Temel](https://superpeer.com/zntemel) - Frontend developer
 
 ## Mobile App Software Development
 
@@ -388,3 +389,18 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Haluk Memili](https://superpeer.com/pisagor) - Eğitmen
 * [mari](https://superpeer.com/mariapadaam) - Dijital İçerik Üretici
 * [Mustafa Başal](https://superpeer.com/mustafabasal) - Music Producer, Mixing Engineer
+* [Utku Barış Andaç](https://superpeer.com/utkukemanatolyesi) - Müzisyen, Eğitmen, Aranjör, Orkestra Şefi
+* [Tunahan Tolga Yıldız](https://superpeer.com/tunahantolga) - Bilgisayar Mühendisi
+* [Mehmet Emin Doğan](https://superpeer.com/mehmetemindogan) - Ressam
+* [Mehmet Aydın](https://superpeer.com/mehmet-aydin) - Dijital Pazarlama Uzmanı
+* [Tuğçe Kızılakça Soyaslan](https://superpeer.com/tugcekizilakca) - Uzman Psikolog
+* [Monkito](https://superpeer.com/monkito) - Eğitmen
+* [Emre Yücelen](https://superpeer.com/emreyucelen) - Müzisyen
+* [Gökhan Hayta](https://superpeer.com/bentasarimciyim) - Ürün Tasarımcısı
+* [Ayşe Hocaoğlu Eser](https://superpeer.com/englishwithays) - Eğitmen
+* [Julia M. Usher](https://superpeer.com/juliamusher) - Sugar Artist, Instructor
+* [Alexa Herasimchuk](https://superpeer.com/hello_imalexa) - Senior Product Designer, YouTuber
+* [Kemal Karadayı](https://superpeer.com/karadayikemal) - Eğitimci, Sosyolog, Yazar
+* [Sabah Kemal Cansu](https://superpeer.com/sabahkemal) - UI/UX Designer
+* [Muammer Güler](https://superpeer.com/muammerguler) - Programlama ve Robotik Kodlama Eğitmeni
+* [İrem Derlen](https://superpeer.com/iremderlen) - Solist, Vokal Koçu, Şan Eğitmeni, Nefes Koçu, Sesle Şifa Terapisti
