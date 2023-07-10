@@ -404,3 +404,9 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Sabah Kemal Cansu](https://superpeer.com/sabahkemal) - UI/UX Designer
 * [Muammer Güler](https://superpeer.com/muammerguler) - Programlama ve Robotik Kodlama Eğitmeni
 * [İrem Derlen](https://superpeer.com/iremderlen) - Solist, Vokal Koçu, Şan Eğitmeni, Nefes Koçu, Sesle Şifa Terapisti
+* [Faruk Taşdemir](https://superpeer.com/tasdemirfaruk) - Grafik Tasarımcı, Eğitmen
+* [Oğuz Veli Yavaş](https://superpeer.com/oguzveliyavas) - Performans Pazarlama Danışmanı, Eğitmen
+* [Ayşe Damla Pekgöz](https://superpeer.com/ayemnut) - Marketing Manager, Business Developer
+* [Beth-May Leddra-Chapman](https://superpeer.com/bethmaydesign) - UI/UX Designer
+* [Ronen Ainbinder](https://superpeer.com/ronen) - Business Analyst, Writer, Content Creator, Sports Tech Analyst
+* [Midori Kocak](https://superpeer.com/midorikocak) - Senior Software Engineer, Graphic Designer
