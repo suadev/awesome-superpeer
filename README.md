@@ -139,8 +139,7 @@ Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
 * [Burak Eray Kayis](https://superpeer.com/burakeray) - Senior Mobile Application Developer
 * [Muhammed Tanriverdi](https://superpeer.com/tanriverdi) - iOS Developer
 * [Seyfeddin Bassarac](https://superpeer.com/seyfeddin) - iOS Developer
-* [Ufuk Canlı](https://superpeer.com/ufukcanli) - iOS Developer
-
+  
 ## Software Career Mentorship
 
 * [Baris Ceviz](https://superpeer.com/peacecwz) - Jedi Software Engineer, Trainer/Blogger, MSP @Microsoft
