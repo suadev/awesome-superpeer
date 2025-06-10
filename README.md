@@ -2,8 +2,6 @@
 
 If you know a superpeer account who is not on the list, please don't hesitate to contribute.
 
-Website: [awesome-superpeer.vercel.app](https://awesome-superpeer.vercel.app/)
-
 ### Contents
 
 - [Awesome Superpeer](#awesome-superpeer)
